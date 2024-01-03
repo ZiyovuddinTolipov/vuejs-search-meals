@@ -7,8 +7,6 @@ import * as getters  from './getters'
 const store = createStore({
     state,
     actions,
-
-    
     mutations,
     getters,
 })
