@@ -1,10 +1,8 @@
 
 <template>
-  <h1>Hello World</h1>
+  <router-view />
 </template>
 
-  <script setup>
-  </script>
-<style scoped>
+<script setup>
+</script>
 
-</style>
