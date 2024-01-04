@@ -1,5 +1,5 @@
 export default {
-  meals: ["Salom"],
+  searchedMeals:[]
 };
 
 // export const means = ['Salom']
